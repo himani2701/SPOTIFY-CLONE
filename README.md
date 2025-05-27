@@ -1,1 +1,1 @@
-A spotify clone made using HTML, CSS and Javascript
+A spotify clone made using HTML, CSS. 
